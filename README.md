@@ -1,4 +1,4 @@
-# 🚀 Social_Media_Threat_Intelligence_IBM_HAckathon_Team
+# 🚀 bob-ai-hackathon-KernelSiege
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
